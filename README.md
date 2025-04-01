@@ -2,7 +2,7 @@
 Files to improve the user experience of a Raspberry Pi 5.
 
 ## List of files
-- [ ] - fan
+- [ ] fan
 
 ### Thanks
 - **Pandak**
